@@ -1,6 +1,7 @@
 # quack [![status: WIP](https://img.shields.io/badge/status-WIP-orange)]()
 
-> [!WARNING] > **Under construction.** This package is not ready for use. Expect breaking changes and missing features.
+> [!WARNING]
+> **Under construction.** This package is not ready for use. Expect breaking changes and missing features.
 
 A tiny Rust CLI that uses **llama.cpp** (via the `llama_cpp` Rust crate) to turn a git **diff** into a **Conventional Commit** message.
 
